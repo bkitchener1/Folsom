@@ -1,0 +1,39 @@
+base_url: https://cms.arrow.com
+cart_url: https://cart.arrow.com
+rr_base_url: //recs
+components_url: http://components.arrow.com
+
+sitecore_username: biomonitor
+sitecore_password: S2o7Ua7z8T144Uc
+
+sitecore_user1: Automation1
+sitecore_user2: Automation2
+sitecore_user3: Automation3
+sitecore_user4: Automation4
+sitecore_pass: LsAy_9b&
+time: 30
+impl_timeout: 10
+
+username: autotest1@mailinator.com
+password: asdf1234
+
+# Login splash myArrowUser
+
+myArrowUsername: Donaldpmeyer@gmail.com
+myArrowUserPassword: Arrow123
+myArrowUsertext : Don Meyer
+
+home_page_title: Arrow.com
+
+# components page
+
+components_arrow_page_url: http://components.arrow.com/part/search/1?
+
+#login splash page url
+login_splash_page_url : /login-splash?url=https%3A%2F%2Fuat.arrow.com%2Fen%2Flogin%3Furl%3D
+#--------------------------------------------------------------------------
+#Config/Data for tests to be run on UAT ONLY:
+webinar_detail_url: research-and-events/events/webinar-serial-nor-flash-the-all-purpose-flash-memory
+
+
+

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="1" errors="0" skipped="0" tests="1" time="40.703735" name="PartDetailStock">
+<testcase classname="desktop_PartDetailStock" name="@desktop User can see the Stock amount for Parts that are in Stock" time="40.703735">
+  <failure message="failed @desktop User can see the Stock amount for Parts that are in Stock" type="failed">
+    <![CDATA[Scenario: User can see the Stock amount for Parts that are in Stock
+
+Given I visit a Part Detail with Multiple Cart Options
+
+Message:
+]]>
+    <![CDATA[end of file reached (EOFError)
+./features/support/webdriver.rb:136:in `get'
+./features/support/webdriver.rb:76:in `open_new_window'
+./features/api/base_api.rb:9:in `get_uri'
+./features/api/search_ajax.rb:14:in `search_for'
+./features/api/search_ajax.rb:8:in `search_bav99'
+./features/step_definitions/parts_steps.rb:23:in `/^I visit a Part Detail with Multiple Cart Options$/'
+./features/arrow_features/parts_features/part_detail_stock.feature:7:in `Given I visit a Part Detail with Multiple Cart Options']]>
+  </failure>
+  <system-out>
+    <![CDATA[reports/parts_features/part_detail_stock/User_can_see_the_Stock_amount_for_Parts_that_are_in_Stock/chrome_desktop/log.txt
+Starting Scenario 'User can see the Stock amount for Parts that are in Stock'
+Starting local chrome browser
+Resizing browser to desktop size
+Navigating to https://qww.arrow.com/en/products/search?q=bav99
+Tags: [36m@@ARROW_185[0m, [36m@@full[0m, [36m@@smoke[0mScenario '' Failed
+end of file reached
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/protocol.rb:153:in `read_nonblock'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/protocol.rb:153:in `rbuf_fill'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/protocol.rb:134:in `readuntil'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/protocol.rb:144:in `readline'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http/response.rb:39:in `read_status_line'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http/response.rb:28:in `read_new'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http.rb:1412:in `block in transport_request'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http.rb:1409:in `catch'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http.rb:1409:in `transport_request'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http.rb:1382:in `request'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http.rb:1375:in `block in request'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http.rb:852:in `start'
+/System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/2.0.0/net/http.rb:1373:in `request'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/remote/http/default.rb:107:in `response_for'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/remote/http/default.rb:58:in `request'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/remote/http/common.rb:59:in `call'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/remote/bridge.rb:645:in `raw_execute'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/remote/bridge.rb:623:in `execute'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/remote/bridge.rb:134:in `get'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/support/event_firing_bridge.rb:41:in `block in get'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/support/event_firing_bridge.rb:118:in `dispatch'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/support/event_firing_bridge.rb:40:in `get'
+/Library/Ruby/Gems/2.0.0/gems/selenium-webdriver-2.52.0/lib/selenium/webdriver/common/navigation.rb:33:in `to'
+./features/support/webdriver.rb:136:in `get'
+./features/support/webdriver.rb:76:in `open_new_window'
+./features/api/base_api.rb:9:in `get_uri'
+./features/api/search_ajax.rb:14:in `search_for'
+./features/api/search_ajax.rb:8:in `search_bav99'
+./features/step_definitions/parts_steps.rb:23:in `/^I visit a Part Detail with Multiple Cart Options$/'
+./features/arrow_features/parts_features/part_detail_stock.feature:7:in `Given I visit a Part Detail with Multiple Cart Options'
+]]>
+  </system-out>
+  <system-err>
+    <![CDATA[]]>
+  </system-err>
+</testcase>
+</testsuite>

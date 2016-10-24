@@ -1,0 +1,347 @@
+browserstack_username: briankitchener1
+browserstack_access_key: WdEWTk9pUjdsttLheZ9H
+element_timeout: 60
+page_timeout: 60
+default_user:
+  username: automation_user@mailinator.com
+  password: Arrow123
+second_user:
+  username: automation_user2@mailinator.com
+  password: Arrow123
+third_user:
+  username: automation_user3@mailinator.com
+  password: Arrow123
+terms_user:
+  username: automation_terms_user@gmail.com
+  password: Arrow123
+existing_user:
+  username: testuser
+  password: Firepath1
+  email   : testuser12@gmail.com
+new_user:
+  username: testuser
+  password: Saidurga8
+  email   : nil
+user_invalid_email:
+  username: testuser
+  password: Saidurga8
+  email   : testuserinvalidemail@gmail
+user_invalid_password:
+   username: testuser
+   password: arrow123
+   email   : testuser100@gmail.com
+credit_cards:
+  visa:
+    number: 4111 1111 1111 1111
+    name: John T Birkenstock
+    code: 123
+    month: 10 - October
+    year: 2018
+  mastercard:
+    number: 5555 5555 5555 4444
+    name: John T Birkenstock
+    code: 123
+    month: 10 - October
+    year: 2018
+  amex:
+    number: 3782 8224 6310 005
+    name: John T Birkenstock
+    code: 123
+    month: 10 - October
+    year: 2018
+  discover:
+     number: 6011 1111 1111 1117
+     name: John T Birkenstock
+     code: 123
+     month: 10 - October
+     year: 2018
+  expired:
+     number: 4111 1111 1111 1111
+     name: John T Birkenstock
+     code: 123
+     month: 01 - January
+     year: 2016
+shipping_methods:
+  fedex:
+    ground: 1
+    express: 2
+    2day: 3
+    overnight: 4
+    next_bday: 5
+    first_overnight: 6
+  ups:
+    ground: 7
+    3_day: 8
+    2nd_day: 9
+    next_day_air_saver: 10
+    next_day_air: 11
+    next_day_early: 12
+  usps:
+    1st_class: 13
+    priority_mail: 14
+    priority_express: 15
+shipping_methods_non_us:
+  dhl:
+    express_world_wide_service: 1
+  fedex:
+    international_economy: 2
+    international_priority: 3
+  ups:
+    world_wide_expedited: 4
+    world_wide_express_plus: 5
+    world_wide_saver: 6
+    world_wide_express: 7
+promo_codes:
+    qa_promo: matt10validnomin
+    qa_promo_message: 10% OFF ENTIRE ORDER
+    qa_promo_discount: 10
+    prod_promo: anz 3%
+    prod_promo_message: 3% Discount Applied
+    prod_promo_discount: 3
+shipping_address_testuser:
+   line1: Test User
+   line2: Aspenware
+   line3: 3033122135
+   line4: 123 S Colorado
+   line6: Denver, AL 80246-8001
+   line7: United States of America
+payment_method:
+   type : CREDIT CARD
+   name : John T Birkenstock
+   lastfour: 1111
+   exp : Exp 10/2018
+billing_address_testuser :
+    name : Test User
+    company_name :  Aspenware
+    address_line1 : 3033122135
+    address_line2 : 123 S Colorado
+    address_line3 : Denver, AL 80246-8001
+    address_line4 : United States of America
+
+rr_base_url: //recs
+
+sitecore_username: biomonitor
+sitecore_password: S2o7Ua7z8T144Uc
+
+# sitemap_bot_custom_ip for all instances
+
+sitemap_bot_custom_ip: 157.55.33.18
+
+time: 30
+impl_timeout: 10
+
+username: autotest1@mailinator.com
+password: asdf1234
+
+home_page_title: Arrow.com
+tag_details_url: /intel/de20de75e42f4e65b2601b0884b06c50
+
+#--------------------------------------------------------------------------
+#Content Page Data:
+news_article_url: research-and-events/articles/stop-shunt-regulators-help-your-car-come-to-a-halt
+news_article_title: Stop! Shunt Regulators Help Your Car Come to a Halt
+video_article_url: research-and-events/videos/te-sensors-for-smarter-more-connected-creations
+event_detail_url: research-and-events/articles/impacting-our-energy-levels-with-light
+#webinar_detail_url: research-and-events/events/nimbelink-llc-video-skywire-arduino-development-kit
+#webinar_detail_url: research-and-events/events/webinar-serial-nor-flash-the-all-purpose-flash-memory
+
+reference_design_lists_title: Featured reference designs
+recently_viewed_title: Recently viewed
+featured_datasheet_title: Featured datasheets
+featured_datasheet_title_new_users: Recommended Datasheets
+
+manu_detail_url: n/nxp-semiconductors
+manu_detail_name: NXP Semiconductors
+manu_detail_url_with_more_than_3_news_content: a/analog-devices
+manu_detail_url_with_less_than_3_news_content: 0-to-9/3m
+manu_detail_url_with_ref_design: a/analog-devices
+
+#div_landing_page: divisions/computing-solutions
+
+#updated enterprise
+
+div_landing_page: divisions/enterprise computing-solutions
+faq_page: support/contact-support/faqs
+contact_us_page: support/contact-support/contact-arrow
+#--------------------------------------------------------------------------
+#Reference Design Data:
+ref_design_id: 6E9AFEE046EAD1063192F29DF58686FF
+ref_design_title: TPS63030EVM-658 contains the TPS63030 buck-boost converter, configuredwith external components to regulate current through a WLED
+ref_design_url_param: tps63030evm-658-contains-the-tps63030-buck-boost-converter-configuredwith-external-components-to-regulate-current-through-a-wled/
+ref_design_sub_title: TPS63030DSK by Texas Instruments
+ref_design_browser_title: TPS63030EVM-658 Reference Design | White LED Driver | Arrow.com
+
+ref_design_with_no_assoc_doc_id: 3758A6CC65FA5A37ADC7BF34FDCD923E
+ref_design_with_no_assoc_doc_url_param: abx8xx-i2c-evk-evaluation-kit-to-assess-the-complete-feature-set-in-the-ultra-low-power-product/
+
+ref_design_with_5_related_id: BABAEC8B4C2F2D20E5CBCCF73544D4B7
+ref_design_with_5_related_url_param: lm9061evm-high-side-protection-controller-evaluation-module/
+#--------------------------------------------------------------------------
+#DATASHEETS Data:
+datasheets_id: 8975533508
+datasheet_for: BAS116, BAS116Q
+
+datasheet_standard_search_string: BAV
+
+datasheet_without_family_id: 41691808
+datasheet_without_family_for: MS27497T10A99SA, MS27497T10F35SD, MS27497T12A22P
+
+datsheet_with_less_than_three_id: 49376613
+datsheet_with_less_than_three_for: BAW56L, SBAW56L
+
+datsheet_with_more_than_three_id: 119043987
+datsheet_with_more_than_three_for: SAMD20E16A, ATSAMD20E15A, SAMD20G15A
+no_datasheet_found_en_msg: Datasheet - preview is not currently available
+
+search_result_with_filtering_options:
+filter_search_term: Circuit Protection
+part_with_lead_time_sku: D1213A-02SOL-7
+
+product_category_with_non_numeric_filter: "Active+Filter"
+
+wide_search: 'diode'
+
+product_for_purchase: BAV170T-7-F
+
+
+#Parts ------------------------------------------------------------------
+part_with_lead_time_sku: D1213A-02SOL-7
+
+part_with_related_ref_des_sku: LT3080EDD#PBF
+part_with_related_ref_des_manu: Linear Technology
+part_with_related_ref_des_url: products/lt3080eddpbf/linear-technology/
+
+part_with_cross_references_sku: BAV70DV-7
+part_with_cross_references_manu: Diodes Incorporated
+part_with_cross_references_url: products/bav70dv-7/diodes-incorporated/
+
+part_with_four_plus_price_tiers_sku: BAV16WS-7-F
+part_with_four_plus_price_tiers_manu: Diodes Incorporated
+part_with_four_plus_price_tiers_url: products/bav16ws-7-f/diodes-incorporated
+
+#part_with_minimum_quantity_sku: BAT1000Q-7-F
+part_with_minimum_quantity_sku: BAV99-TP
+part_with_minimum_quantity__manu: Diodes Incorporated
+part_with_minimum_quantity_url: products/bat1000q-7-f/diodes-incorporated
+
+part_with_multiple_cart_option_sku: CRCW251282R5FKEG
+part_with_multiple_cart_option_manu: Vishay
+part_with_multiple_cart_option_url: products/crcw251282r5fkeg/vishay
+
+part_with_dev_kit_import_sku: AD8004AR
+part_with_dev_kit_import_manu: Analog Devices
+part_with_dev_kit_import_url: products/ad8004ar-ebz/analog-devices/
+
+part_with_envision_sku: DATA5962-9151901MPA
+part_with_envision_manu: Analog Devices
+part_with_envision_url: products/data5962-9151901mpa/analog-devices
+# pipe line item info readded again
+
+part_with_pipeline_sku: BAV99S,115
+part_with_pipeline_manu: NXP Semiconductors
+part_with_pipeline_url: products/bav99s115/nxp-semiconductors/
+
+search_result_with_filtering_options: BAV99
+#--------------------------------------------------------------------------
+default_column_layout: PART NO. PRICE STOCK MANUFACTURER TYPE DESCRIPTION
+product_with_reference_design: VM800C35A-N
+engineer_email_form:
+  :name: BB King
+  :email: kingsman@example.com
+  :company: Big Strut Engineering
+  :city: Nova Zeland
+  :state: Ohiado
+  :question: Does it come in blue?
+
+#---------------------------------------------------------------------------
+currency:
+  eng-usd: ^\$(\d+)?[.,]?(\d+)?$
+  de-usd: ^(\d+)?[.,]?(\d+)? \$
+  cn-usd: ^US\$ (\d+)?[.,](\d+)?$
+  fr-usd: ^(\d+)?[.,]?(\d+)? \$US$
+  it-usd: ^(\d+)?[.,]?(\d+)? US\$$
+  es-usd: ^(\d+)?[.,]?(\d+?)? \$$
+  eng-aud: ^A\$(\d+)?[.,]?(\d+)?$
+  de-aud: ^(\d+)?[.,]?(\d+)? AU\$$
+  cn-aud: ^AU\$ (\d+)?[.,]?(\d+)?$
+  fr-aud: ^(\d+)?[.,]?(\d+)? $AU$
+  it-aud: ^(\d+)?[.,]?(\d+)? A\$$
+  es-aud: ^(\d+)?[.,]?(d\+)? \AUD$
+  eng-brl: ^R\$(\d+)?[.,]?(\d+)?$
+  de-brl: ^(\d+)?[.,]?(\d+)? R\$$
+  cn-brl: ^R\$ (\d+)?[.,]?(\d+)?$
+  fr-brl: ^(\d+)?[.,]?(\d+)? R\$$
+  it-brl: ^(\d+)?[.,]?(\d+)? BRL$
+  es-brl: ^(d\+)?[.,]?(\d+)? BRL$
+  eng-cad: ^CA\$(\d+)?[.,]?(\d+)?$
+  de-cad: ^(\d+)?[.,]?(\d+)?CA\$$
+  cn-cad: ^CA\$ (\d+)?[.,]?(\d+)?$
+  fr-cad: ^(\d+)?[.,]?(\d+)? \$CA$
+  it-cad: ^(\d+)?[.,]?(\d+)? CA\$$
+  es-cad: ^(\d+)?[.,]?(\d+)? CA\$$
+  eng-cny: ^CN￥(\d+)?[.,]?(\d+)?$
+  de-cny: ^(\d+)?[.,]?(\d+)? \CN￥$
+  cn-cny: ^￥ (\d+)?[.,]?(\d+)?$
+  fr-cny: ^(\d+)?[.,]?(\d+)? CNY$
+  it-cny: ^(\d+)?[.,]?(\d+)? CN￥$
+  es-cny: ^(\d+)?[.,]?(\d+)? CNY$
+  eng-eur: ^€(\d+)?[.,]?(\d+)?$
+  de-eur: ^(\d+)?[.,]?(\d+)? €$
+  cn-eur: ^€ (\d+)?[.,]?(\d+)?$
+  fr-eur: ^(\d+)?[.,]?(\d+)? €$
+  it-eur: ^(\d+)?[.,]?(\d+)? €$
+  es-eur: ^(\d+)?[.,]?(\d+)? €$
+  eng-gbp: ^£(\d+)?[.,]?(\d+)?$
+  de-gbp: ^(\d+)?[.,]?(\d+)? €$
+  cn-gbp: ^£ (\d+)?[.,]?(\d+)?$
+  fr-gbp: ^(\d+)?[.,]?(\d+)? €GB$
+  it-gbp: ^(\d+)?[.,]?(\d+)? €$
+  es-gbp: ^(\d+)?[.,]?(\d+)? GBP$
+  eng-hkd: ^HK\$(\d+)?[.,]?(\d+)?$
+  de-hkd: ^(\d+)?[.,]?(\d+)? HK\$$
+  cn-hkd: ^HK\$ (\d+)?[.,]?(\d+)?$
+  fr-hkd: ^(\d+)?[.,?](\d+)? HKD$
+  it-hkd: ^(\d+)?[.,]?(\d+)? HKD$
+  es-hkd: ^(\d+)?[.,]?(\d+)? HKD$
+  eng-inr: ^₹(\d+)?[.,]?(\d+?)$
+  de-inr: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? ₹$
+  cn-inr: ^₹(\d+)?[.,]?(\d+)?[.,]?(\d+)?$
+  fr-inr:  ^(\d+)? (\d+)?[.,]?(\d+)? ₹$
+  it-inr: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? ₹$
+  es-inr: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? ₹$
+  eng-jpy: ^¥(\d+)?[.,]?(\d+)?[.,]?(\d+)?$
+  de-jpy: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? ¥$
+  cn-jpy: ^JP¥ (\d+)?[.,]?(\d+)?[.,]?(\d+)?$
+  fr-jpy: ^(\d+)? (\d+)?[.,]?(\d+)? JPY$
+  it-jpy: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? JPY$
+  es-jpy: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? JPY$
+  eng-krw: ^₩(\d+)?[.,]?(\d+)?[.,]?(\d+)?$
+  de-krw: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? ₩$
+  cn-krw: ^₩ (\d+)?[.,]?(\d+)?[.,]?(\d+)?$
+  fr-krw: ^(\d+)? (\d+)?[.,]?(\d+?) ₩$
+  it-krw: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? KRW$
+  es-krw: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? KRW$
+  eng-mxn: ^MX\$(\d+)?[.,]?(\d+)?[.,]?(\d+)$
+  de-mxn: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? MX\$$
+  cn-mxn: ^MX\$ (\d+)?[.,]?(\d+)?[.,]?(\d+)?$
+  fr-mxn: ^(\d+)? (\d+)?[.,]?(\d+?) \$MX$
+  it-mxn: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? MXN$
+  es-mxn: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? MXN$
+  eng-myr: ^RM (\d+)?[.,]?(\d+)?$
+  de-myr: ^(\d+)?[.,]?(\d+)? RM$
+  cn-myr: ^RM (\d+)?[.,]?(\d+)?$
+  fr-myr: ^(\d+)?[.,]?(\d+)? RM$
+  it-myr: ^(\d+)?[.,]?(\d+)? RM$
+  es-myr: ^(\d+)?[.,]?(\d+)? RM$
+  eng-sgd: ^\$(\d+)?[.,]?(\d+)?$
+  de-sgd: ^(\d+)?[.,]?(\d+)? \$$
+  cn-sgd: ^\$ (\d+)?[.,]?(\d+)?$
+  fr-sgd: ^(\d+)?[.,]?(\d+)? \$$
+  it-sgd: ^(\d+)?[.,]?(\d+)? \$$
+  es-sgd: ^(\d+)?[.,]?(\d+)? \$$
+  eng-twd: ^NT\$(\d+)?[.,]?(\d+)?[.,]?(\d+)?$
+  de-twd: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? NT\$$
+  cn-twd: ^NT\$(\d+)?[.,]?(\d+)?[.,]?(\d+)?$
+  fr-twd: ^(\d+)? (\d+)?[.,]?(\d+)? NT\$$
+  it-twd: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? NT\$$
+  es-twd: ^(\d+)?[.,]?(\d+)?[.,]?(\d+)? NT\$$
