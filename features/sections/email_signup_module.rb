@@ -1,3 +1,0 @@
-
-class EmailSignupModule
-end

@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5dd035d-32d4-49d9-87c5-cc4376c65389" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/prod_cms.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/prod_hkg.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/prod_lon.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/prod_ord.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/prod_scord.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/qa_master.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/environments/uat_cms.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/errors/cart_summary/update_item_count/As_an_Arrow_com_user__I_want_to_be_able_to_update_the_number_of_items_in_my_cart/chrome_mobile/chrome_mobile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/add_to_cart_external.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/base_api.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/cairo_health_check.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/cart_handover.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/generic_api.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/get_cart_contents.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/get_pending_sales_order.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/get_sales_order_history_details.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/health_check.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/search_ajax.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/api/test_rail_integrator.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/currency_code.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/header.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/header_ad_banner.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/header_divisions.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/header_minimised.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/header_new.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/header_new_currency.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/header_top_menu.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/language_selector.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/megamenu_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/Header/my_account.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/analytics_features/google_site_verification.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/analytics_features/seo_tags.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/billing/add_new_billing_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/billing/delete_billing_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/billing/edit_billing_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/billing/view_billing_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_checkout.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_got_question.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_got_question_order_confirmation.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_got_question_payment.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_got_question_place_order.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_got_question_shipping.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_got_question_shipping_method.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_header_footer.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_items.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_multi_currency.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_order_summary.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/cart_summary_total_items.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/delete_item.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/edit_quantity.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/idle_question_box.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/cart_summary/update_item_count.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/confirmation/order_number.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/confirmation/order_summary.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/confirmation/payment.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/confirmation/shipping_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/confirmation/shipping_method.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/confirmation/thank_you_text.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/confirmation/ultimate_consignee_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/currency/currency_format.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/currency/currency_payment.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/login/login.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/login/logout.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/order_history/order_detail_ultimate_destination.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/order_summary/order_summary_all_pages.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/payment/payment_arrange.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/payment/payment_credit_card_non_us_currency.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/payment/payment_enter_credit_card.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/payment/payment_header.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/payment/payment_icons.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/payment/payment_paypal.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/payment/payment_terms.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/payment/payment_wire_transfer.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/place_order.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/place_order_billing_address_not_selected.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/place_order_header.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/place_order_payment_method_billing_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/place_order_shipping_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/place_order_shipping_method.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/po_number.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/promo_code.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/place_order/ultimate_consignee_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/add_new_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/delete_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/delete_all_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/edit_existing_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/freight_forward.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/restrict_po_box.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/select_existing_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/shipping_address_header.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_address/view_address.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_method/shipping_charges.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_method/shipping_method_functionality.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/shipping_method/shipping_method_header.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/translation/cart_language.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/vendor_sites/origin_redirect.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cart_features/vendor_sites/vendor_id_header.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/contact_and_support.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/cookie_policy/cookie_policy.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/create_account/customer_registration.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/create_account/customer_registration_new.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/create_account/short_register_links.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/currency_features/currency.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/datasheets_features/datasheet_does_not_exist.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/datasheets_features/datasheet_download.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/datasheets_features/datasheet_mini_viewer_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/datasheets_features/datasheet_products_carousel_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/datasheets_features/datasheet_toolbar_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/datasheets_features/datasheet_viewer.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/datasheets_features/datasheets_detail_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/datasheets_features/datasheets_landing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/design_centre_features/design_center_promotion_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/design_centre_features/design_centre_engineer_promotion.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/design_centre_features/design_centre_landing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/design_centre_features/email_an_engineer.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/design_centre_features/engineers_listings_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/help_centre_features/contact_us_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/help_centre_features/faq_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/login_features/login_new.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/login_features/login_splash.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/manufacturers_features/manufacturers_detail_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/manufacturers_features/manufacturers_landing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/misc_features/arrow_redirection.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/misc_features/authors_and_sales_people.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/misc_features/error_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/misc_features/google_ad_tracking.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/misc_features/rich_relevance.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/misc_features/sitemap.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/breadcrumb.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/carousel.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/content_tag_filters.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/content_tag_linking.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/counter_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/cross_references_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/embedded_search_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/engineer_questions_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/favicon.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/featured_manufacture_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/footer.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/footer_follow_us.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/hot_topics.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/login_or_signup_menu.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/navigation.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/recently_viewed_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/reference_design_related_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/related_content_sidebar_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/related_research_and_events_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/research_and_events_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/secondary_nav_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/shopping_cart.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/side_bar_module.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/social_share_bar.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/social_share_modal.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/modules_features/typeahead.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/my_account_features/my_account.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/my_projects/add__to_my_projects.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/my_projects/create_new_projects.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/my_projects/project_detail_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/my_projects/project_listing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/my_projects/project_login.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/part_backorder_form.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/part_detail_price_quantity.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/part_detail_stock.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/part_details.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/parts_category_landing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/parts_detail_linking.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/parts_detail_specification.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/parts_detail_with_backorder.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/parts_detail_with_discontinued.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/parts_detail_with_ecliptek.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/parts_detail_with_pipeline.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/parts_detail_with_quote.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/parts_features/products_landing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/reference_design_features/download_reference_design.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/reference_design_features/ref_design_browse_by_manufacturer_feature.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/reference_design_features/ref_design_detail_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/research_and_events_features/events.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/research_and_events_features/news_and_event_landing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/research_and_events_features/news_article.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/research_and_events_features/research_and_events_landing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/research_and_events_features/tag_detail_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/research_and_events_features/video_article.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/research_and_events_features/video_landing_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/research_and_events_features/webinar_detail_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/apply_search_button_for_desktop.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/category_and_product_line_filter_improvements.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/email_search_results.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/filter_by_product_category.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/maufacturer_sub_category.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_item_buying_buttons_feature.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_item_price_tiers_feature.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_item_quantity.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_item_stock_level_feature.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_page_navigation.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_adjustable_columns.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_discontinued_item.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_enhancement.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_filters.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_filters_apply_button.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_for_datasheets.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_linking.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_load_more.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_on_desktop.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_on_mobile.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_quick_close_columns.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_sorting.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_sortrow.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_sticky_column_header.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_total_amount.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_results_usability_fix.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_submit.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/search_term_persistence.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/spinner_persistence.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/search_features/zero_results_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/arrow_features/sitemap_features/sitemap_admin_page.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/modules/share_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/admin_instruments_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/api_health_check_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/arrow_base.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/article_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cache_control_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/add_address.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/cart_summary.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/confirmation.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/order_detail.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/payment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/paypal_login.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/place_order.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/register.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/shipping_address.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart/shipping_method.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cart_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/contact_us_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/content_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/cookie_terms_and_conditions_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/create_account_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/datasheets_detail_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/datasheets_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/datasheets_listings_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/design_center_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/email_an_engineer_modal_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/email_confirmation_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/engineer_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/engineers_listings_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/error_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/event_detail_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/events_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/faq_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/feature_flag_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/featured_manufacturer_page_part.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/first_time_user_experience_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/full_create_account_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/home_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/login_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/login_splash_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/manufacturer_detail_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/manufacturers_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/news_and_events_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/news_article_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/news_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/part_details_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/parts_category_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/person_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/policy_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/product_category.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/product_listings_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/products_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/project_detail_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/projects_listing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/reference_design_detail_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/reference_design_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/reference_design_listings_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/research_and_events_listings_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/research_and_events_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/sales_person_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/search_filters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/search_results_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/short_create_account_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/sitemap_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/tag_detail_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/video_article_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/video_landing_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/page_objects/webinar_detail_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/accordion_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/add_new_address_modal.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/analytics.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/arrow_header.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/breadcrumb.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/buy_part_modal_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/captcha_popup.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/carousel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/cart/arrow_footer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/cart/cart_footer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/cart/cart_header.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/cart/cart_order_summary.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/cart/cart_summary_row_item.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/cart/edit_item_modal.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/cart/remove_item_modal.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/counter_carousel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/counter_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/create_project.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/currency_code_drop_down_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/currency_selector_drop_down.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/customize_columns.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/datasheet_toolbar_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/datasheet_viewer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/datasheet_viewer_mini.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/datasheets_toggle.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/delete_project_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/divisions_menu_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/email_signup.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/email_signup_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/embedded_search_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/engineer_promo.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/favicon.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/footer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/header.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/information_tile.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/jump_to_links_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/language_selector.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/list_block.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/login_signup_menu.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/manufacturer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/manufacturers_tabs_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/masonry.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/megamenu.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/my_account_drop_down.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/news_and video_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/pageing.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/person_square.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/promo_project.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/promotion_ad.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/recently_viewed.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/region_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/region_select_modal.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/related_content_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/related_news_articles.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/related_reference_design.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/research_and_events.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/responsive_carousel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/save_to_project_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/secondary_nav.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/select_region.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/shipping_address/delete_address_modal.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/shipping_address/existing_address.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/shopping_cart_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/side_nav.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/social_share_modal.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/tabbed_content.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/tags_filter.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/tags_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/thumbnail_carousel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/tooltip_module.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/typeahead.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/sections/zero_results.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/site_sanity_features/divisons_pages_sanity.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/site_sanity_features/site_api_sanity.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/site_sanity_features/site_content_and_detail_page_navigation_sanity.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/site_sanity_features/site_landing_page_navigation_sanity.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/site_sanity_features/site_map_xml_product.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/site_sanity_features/site_map_xml_video.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/site_sanity_features/site_search_navigation_sanity.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/admin_instruments_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/admin_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/analytics_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/api_health_check.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/api_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/ask_an_engineer_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/breadcrumbs_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/carousel_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/add_address.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/api.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/billing_address.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/cart_shippingaddress_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/cart_summary_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/footer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/header.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/login.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/main_site.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/nothing.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/order_confirmation.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/order_summary.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/payment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/paypal.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/place_order.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/shipping_address.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/shipping_method.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cart_steps/shopping_cart.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/choose_region_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/content_pages_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/cookie_policy_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/counter_module_stepis.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/currency_code_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/datasheets_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/design_center_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/embeeded_search_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/engineer_listing_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/engineer_promo_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/error_page_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/event_detail_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/first_time_user_stesps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/footer_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/global_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/header_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/help_center_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/home_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/hot_topics_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/language_selector_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/login_signup_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/manufacturer_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/masonry_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/mega_menu_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/misc_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/my_account_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/my_projects_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/news_and_video_article_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/news_modules_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/paging_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/parts_details_page_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/parts_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/person_page_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/product_landing_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/project_detail_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/project_listing_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/recently_viewed_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/reference_design_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/registration_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/related_content_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/related_reference_design_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/research_and_events_module_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/research_events_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/sales_person_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/save_to_project_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/search_filter_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/search_for_datasheets_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/search_for_products_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/search_for_reference_designs_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/search_for_research_events_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/search_results_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/search_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/secondary_nav_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/shopping_cart_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/side_bar_nav_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/site_map_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/site_nav_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/social_share_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/tag_details_page.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/tags_filter_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/testrail.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/transformation_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/typeahead_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/step_definitions/webinar_detail_steps.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/support/cart_item_factory.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/features/testrail_integration/testrail_integrator.feature" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/cucumber-report.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/html-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/junit-report/TEST--Users-Brian-arrow_cucumber_tests-features-arrow_features-parts_features-part_backorder_form.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/junit-report/TEST--Users-Brian-arrow_cucumber_tests-features-arrow_features-parts_features-part_detail_price_quantity.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/junit-report/TEST--Users-Brian-arrow_cucumber_tests-features-arrow_features-parts_features-part_detail_stock.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/parts_features/part_backorder_form/User_can_see_a_Back_Order_button_on_the_Parts_Detail_Page/chrome_desktop/log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/parts_features/part_detail_price_quantity/User_can_see_a_total_price_calculation_after_adding_something_to_there_Cart_from_the_Parts_Detail_Pag/chrome_desktop/log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/parts_features/part_detail_stock/User_can_see_the_Stock_amount_for_Parts_that_are_in_Stock/chrome_desktop/User_can_see_the_Stock_amount_for_Parts_that_are_in_Stock.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reports/parts_features/part_detail_stock/User_can_see_the_Stock_amount_for_Parts_that_are_in_Stock/chrome_desktop/log.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/testfile.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/defaults.yml" afterPath="$PROJECT_DIR$/config/environments/defaults.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/prod.yml" afterPath="$PROJECT_DIR$/config/environments/prod.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/qa.yml" afterPath="$PROJECT_DIR$/config/environments/qa.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environments/uat.yml" afterPath="$PROJECT_DIR$/config/environments/uat.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cucumber.yml" afterPath="$PROJECT_DIR$/cucumber.yml" />
+    </list>
+    <ignored path="Folsom.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Folsom" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="cucumber.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/cucumber.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="defaults.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/defaults.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rubocop.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rubocop.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cucumber.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cucumber.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prod.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/prod.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="uat.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/uat.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qa.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/environments/qa.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/environments/qa.yml" />
+        <option value="$PROJECT_DIR$/config/environments/prod.yml" />
+        <option value="$PROJECT_DIR$/config/environments/defaults.yml" />
+        <option value="$PROJECT_DIR$/config/environments/uat.yml" />
+        <option value="$PROJECT_DIR$/cucumber.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="972" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Folsom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Folsom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Folsom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Folsom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Folsom" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5dd035d-32d4-49d9-87c5-cc4376c65389" name="Default" comment="" />
+      <created>1477332216312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477332216312</updated>
+      <workItem from="1477332222916" duration="546000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="546000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="972" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24908425" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/errors/cart_summary/update_item_count/As_an_Arrow_com_user__I_want_to_be_able_to_update_the_number_of_items_in_my_cart/chrome_mobile/chrome_mobile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/api/generic_api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/api/base_api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/modules/share_module.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/page_objects/cart_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="20" selection-start-line="0" selection-start-column="20" selection-end-line="0" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/cart_item_factory.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/page_object.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/dual_logger.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/testrail.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/cucumber.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/prod.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/qa.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/uat.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/testrail_integration/testrail_integrator.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/defaults.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubocop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cucumber.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

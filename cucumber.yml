@@ -11,77 +11,18 @@ mobile: --p base --tag @mobile
 tablet: --p base --tag @tablet
 
 #base profile, i.e. Required by ALL profiles.
-base: -r features --tag ~@wip --tag ~@skip --p report_all LANG=en
+base: -r features --tag ~@wip --tag ~@skip --p report_all 
 
 #Defines which FigNewton file to use
 prod: FIG_NEWTON_FILE=prod.yml --tag ~@qa_only
-prod_cms: FIG_NEWTON_FILE=prod_cms.yml --tag ~@qa_only
-prod_hkg: FIG_NEWTON_FILE=prod_hkg.yml --tag ~@qa_only
-prod_lon: FIG_NEWTON_FILE=prod_lon.yml --tag ~@qa_only
-prod_ord: FIG_NEWTON_FILE=prod_ord.yml --tag ~@qa_only
-prod_scord: FIG_NEWTON_FILE=prod_scord.yml --tag ~@qa_only
 qa: FIG_NEWTON_FILE=qa.yml --tag ~@prod_only
-qa_master: FIG_NEWTON_FILE=qa_master.yml --tag ~@prod_only
 uat: FIG_NEWTON_FILE=uat.yml --tag ~@qa_only --tag ~@prod_only
-uat_cms: FIG_NEWTON_FILE=uat_cms.yml --tag ~@qa_only --tag ~@prod_only
 
 #Profiles that define which Cucumber tags to run
 #Updated smoke to exclude cart smoke
 full:  --p base --tag @full --tag ~@failing
-full_cart: --p base --tag @full_cart --tag ~@failing
 smoke: --p base  --tag @smoke --tag ~@failing --tag ~@cart_smoke
 sanity: --p base  --tag @sanity --tag ~@failing
-failing: --p base --tag @failing --tag @flickering
-
-#Profile for qa cart smoke
-cart_smoke: --p base  --tag @cart_smoke --tag ~@failing --tag ~@smoke
-
-#teamcity profiles
-
-teamcity_uat_sanity: --p all --p uat --p sanity TESTRAIL_PLAN_NAME=UAT_SANITY UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_uat_smoke: --p all --p uat --p smoke TESTRAIL_PLAN_NAME=UAT_SMOKE UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_qamaster_sanity: --p all --p qa_master --p sanity TESTRAIL_PLAN_NAME=QAMASTER_SANITY UPDATE_TESTRAIL=true  HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_qamaster_smoke: --p all --p qa_master --p smoke TESTRAIL_PLAN_NAME=UAT_SMOKE UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_qa_sanity: --p all --p qa --p sanity  TESTRAIL_PLAN_NAME=QA_SANITY UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_qa_smoke: --p all --p qa --p smoke HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_qa_full: --p all --p qa --p full  TESTRAIL_PLAN_NAME=QA_FULL UPDATE_TESTRAIL=false HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_prod_smoke: --p all --p qa_master --p smoke  TESTRAIL_PLAN_NAME=PROD_SMOKE UPDATE_TESTRAIL=false HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity: HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-
-# adding Profiles for hkg, lon sanity
-teamcity_hkg_sanity: --p all --p prod_hkg --p sanity TESTRAIL_PLAN_NAME=HKG_SANITY UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_lon_sanity: --p all --p prod_lon --p sanity TESTRAIL_PLAN_NAME=LON_SANITY UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-teamcity_ord_sanity: --p all --p prod_ord --p sanity TESTRAIL_PLAN_NAME=ORD_SANITY UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-
-# adding profile for prod_cms
-teamcity_prod_cms_sanity: --p all --p prod_cms --p sanity TESTRAIL_PLAN_NAME=UAT_CMS_SANITY UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-
-#adding profile for cart qa smoke
-teamcity_cart_qa_smoke: --p all --p qa --p cart_smoke  TESTRAIL_PLAN_NAME=QA_CART_SMOKE UPDATE_TESTRAIL=true HIGHLIGHT=false BROWSER=chrome ENVIRONMENT=172.17.104.13
-
-
-
-#Profiles to run with Parallel Reporting and on Grid
-full_p_grid: --p full --p report_json
-smoke_p_grid: --p smoke --p report_json
-debug_p_grid: --p debug --p report_json
-sanity_p_grid: --p sanity --p report_json
-login_p_grid: --p login --p report_json
-failing_p_grid: --p failing --p report_json
-api_p_grid: --p api --p report_json
-end_to_end_p_grid: --p end_to_end --p report_json
-
-#Profile for cart qa smoke
-cart_smoke_p_grid: --p cart_smoke --p report_json
-
-
-full_teamcity: --p full --p report_team_city
-smoke_teamcity: --p smoke --p report_team_city
-saucelabs: --p smoke --p report_team_city BROWSER=SauceLabsIE8
-
-# teamcity report for cart qa smoke
-
-cart_smoke_teamcity: --p cart_smoke --p report_team_city
 
 #Reporting Profiles - format of reports differ
 report_json: --expand --format json -o reports/cucumber<%= ENV['TEST_ENV_NUMBER']%>.json
